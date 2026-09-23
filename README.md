@@ -1,28 +1,35 @@
 # Learn What to Say: Generalizable Active Enrollment for Few-Shot Voice Personalization
 
-This repository contains the lexicon files used in **LEAP** (**L**anguage-Transferable **E**nrollment via **A**ctive **P**olicy Learning).
+This repository contains the lexicon files and selection summaries of **LEAP** (**L**anguage-Transferable **E**nrollment via **A**ctive **P**olicy Learning).
 
 ## Overview
 
+### Lexicon
 To support the methodology proposed in **LEAP**, we provide lexicon CSV files across four languages:
-- Korean
-- Japanese
-- Vietnamese
-- English
-
-All lexicon files can be found in the `csv/` directory.
-
-## Preview
-Below is a preview of the lexicon CSV data used in our framework.
 
 | Language | Path |
 | :--- | :--- |
-| **Korean** | `csv/korean.csv` |
-| **Japanese** | `csv/japanese.csv` |
-| **Vietnamese** | `csv/vietnamese.csv` |
-| **English** | `csv/english.csv` |
+| **Korean** | [`csv/korean.csv`](csv/korean.csv) |
+| **Japanese** | [`csv/japanese.csv`](csv/japanese.csv) |
+| **Vietnamese** | [`csv/vietnamese.csv`](csv/vietnamese.csv) |
+| **English** | [`csv/english.csv`](csv/english.csv) |
+
+### **LEAP** Selection
+
+We also present summaries of the **LEAP** selection in Markdown files across four languages:
+
+| Language | Path |
+| :--- | :--- |
+| **Korean** | [`leap_selection/korean_dynamic_coverage_summary.md`](leap_selection/korean_dynamic_coverage_summary.md) |
+| **Japanese** | [`leap_selection/japanese_dynamic_coverage_summary.md`](leap_selection/japanese_dynamic_coverage_summary.md) |
+| **Vietnamese** | [`leap_selection/vietnamese_dynamic_coverage_summary.md`](leap_selection/vietnamese_dynamic_coverage_summary.md) |
+| **English** | [`leap_selection/english_dynamic_coverage_summary.md`](leap_selection/english_dynamic_coverage_summary.md) |
+
 
 > **Note:** For more implementation and experiment details, please refer to our main paper.
+
+## Lexicon Preview
+Below is a preview of the lexicon CSV data used in our framework.
 
 ### Korean
 
