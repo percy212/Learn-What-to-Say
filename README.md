@@ -2309,8 +2309,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">57</td>
-        <td>P001</td>
-        <td>short phrase</td>
+        <td>K057</td>
+        <td>phrase</td>
         <td>밥 먹다</td>
         <td>3</td>
         <td>1.5</td>
@@ -2348,8 +2348,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">58</td>
-        <td>P002</td>
-        <td>short phrase</td>
+        <td>K058</td>
+        <td>phrase</td>
         <td>물 마시다</td>
         <td>4</td>
         <td>1.3</td>
@@ -2387,8 +2387,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">59</td>
-        <td>P003</td>
-        <td>short phrase</td>
+        <td>K059</td>
+        <td>phrase</td>
         <td>문 열다</td>
         <td>4</td>
         <td>1.0</td>
@@ -2426,8 +2426,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">60</td>
-        <td>P004</td>
-        <td>short phrase</td>
+        <td>K060</td>
+        <td>phrase</td>
         <td>문 닫다</td>
         <td>3</td>
         <td>1.0</td>
@@ -2465,8 +2465,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">61</td>
-        <td>P005</td>
-        <td>short phrase</td>
+        <td>K061</td>
+        <td>phrase</td>
         <td>옷 입다</td>
         <td>3</td>
         <td>1.3</td>
@@ -2504,8 +2504,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">62</td>
-        <td>P006</td>
-        <td>short phrase</td>
+        <td>K062</td>
+        <td>phrase</td>
         <td>책 읽다</td>
         <td>3</td>
         <td>1.0</td>
@@ -2543,8 +2543,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">63</td>
-        <td>P007</td>
-        <td>short phrase</td>
+        <td>K063</td>
+        <td>phrase</td>
         <td>커피 마시다</td>
         <td>5</td>
         <td>1.2</td>
@@ -2582,8 +2582,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">64</td>
-        <td>P008</td>
-        <td>short phrase</td>
+        <td>K064</td>
+        <td>phrase</td>
         <td>우유 마시다</td>
         <td>5</td>
         <td>1.4</td>
@@ -2621,8 +2621,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">65</td>
-        <td>P009</td>
-        <td>short phrase</td>
+        <td>K065</td>
+        <td>phrase</td>
         <td>밥 먹어요</td>
         <td>4</td>
         <td>1.6</td>
@@ -2660,8 +2660,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">66</td>
-        <td>P010</td>
-        <td>short phrase</td>
+        <td>K066</td>
+        <td>phrase</td>
         <td>물 주세요</td>
         <td>4</td>
         <td>1.2</td>
@@ -2699,8 +2699,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">67</td>
-        <td>P011</td>
-        <td>short phrase</td>
+        <td>K067</td>
+        <td>phrase</td>
         <td>문 열어</td>
         <td>4</td>
         <td>1.3</td>
@@ -2738,8 +2738,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">68</td>
-        <td>P012</td>
-        <td>short phrase</td>
+        <td>K068</td>
+        <td>phrase</td>
         <td>문 닫아</td>
         <td>4</td>
         <td>1.5</td>
@@ -2777,8 +2777,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">69</td>
-        <td>P013</td>
-        <td>short phrase</td>
+        <td>K069</td>
+        <td>phrase</td>
         <td>빨리 와</td>
         <td>3</td>
         <td>1.2</td>
@@ -2816,8 +2816,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">70</td>
-        <td>P014</td>
-        <td>short phrase</td>
+        <td>K070</td>
+        <td>phrase</td>
         <td>같이 가요</td>
         <td>4</td>
         <td>1.2</td>
@@ -2855,8 +2855,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">71</td>
-        <td>P015</td>
-        <td>short phrase</td>
+        <td>K071</td>
+        <td>phrase</td>
         <td>집에 가다</td>
         <td>4</td>
         <td>1.0</td>
@@ -2894,8 +2894,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">72</td>
-        <td>P016</td>
-        <td>short phrase</td>
+        <td>K072</td>
+        <td>phrase</td>
         <td>학교 가다</td>
         <td>4</td>
         <td>1.0</td>
@@ -2933,8 +2933,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">73</td>
-        <td>P017</td>
-        <td>short phrase</td>
+        <td>K073</td>
+        <td>phrase</td>
         <td>사진 찍다</td>
         <td>4</td>
         <td>1.3</td>
@@ -2972,8 +2972,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">74</td>
-        <td>P018</td>
-        <td>short phrase</td>
+        <td>K074</td>
+        <td>phrase</td>
         <td>전화 받다</td>
         <td>4</td>
         <td>1.3</td>
@@ -3011,8 +3011,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">75</td>
-        <td>P019</td>
-        <td>short phrase</td>
+        <td>K075</td>
+        <td>phrase</td>
         <td>음악 듣다</td>
         <td>4</td>
         <td>1.4</td>
@@ -3050,8 +3050,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">76</td>
-        <td>P020</td>
-        <td>short phrase</td>
+        <td>K076</td>
+        <td>phrase</td>
         <td>이름 부르다</td>
         <td>5</td>
         <td>1.3</td>
@@ -3089,8 +3089,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">77</td>
-        <td>P021</td>
-        <td>short phrase</td>
+        <td>K077</td>
+        <td>phrase</td>
         <td>얼굴 보다</td>
         <td>4</td>
         <td>1.3</td>
@@ -3128,8 +3128,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">78</td>
-        <td>P022</td>
-        <td>short phrase</td>
+        <td>K078</td>
+        <td>phrase</td>
         <td>친구 만나다</td>
         <td>5</td>
         <td>1.4</td>
@@ -3167,8 +3167,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">79</td>
-        <td>P023</td>
-        <td>short phrase</td>
+        <td>K079</td>
+        <td>phrase</td>
         <td>버스 타다</td>
         <td>4</td>
         <td>1.2</td>
@@ -3206,20 +3206,20 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">80</td>
-        <td>P024</td>
-        <td>short phrase</td>
+        <td>K080</td>
+        <td>phrase</td>
         <td>택시 타다</td>
         <td>4</td>
         <td>1.2</td>
         <td>1.07</td>
         <td>0.23</td>
         <td>택씨 타다</td>
-        <td>ㅌ,ㅅ,ㄷ</td>
+        <td>ㅌ,ㅆ,ㄷ</td>
         <td>ㅐ,ㅣ,ㅏ</td>
         <td>ㄱ</td>
-        <td>ㅌ-ㅐ-ㄱ-ㅅ-ㅣ-|-ㅌ-ㅏ-ㄷ-ㅏ</td>
-        <td>ㅌ,ㅐ,ㄱ,ㅅ,ㅣ,ㅏ,ㄷ</td>
-        <td>ㅌ→ㅐ,ㅐ→ㄱ,ㄱ→ㅅ,ㅅ→ㅣ,ㅣ→|,|→ㅌ,ㅌ→ㅏ,ㅏ→ㄷ,ㄷ→ㅏ</td>
+        <td>ㅌ-ㅐ-ㄱ-ㅆ-ㅣ-|-ㅌ-ㅏ-ㄷ-ㅏ</td>
+        <td>ㅌ,ㅐ,ㄱ,ㅆ,ㅣ,ㅏ,ㄷ</td>
+        <td>ㅌ→ㅐ,ㅐ→ㄱ,ㄱ→ㅆ,ㅆ→ㅣ,ㅣ→|,|→ㅌ,ㅌ→ㅏ,ㅏ→ㄷ,ㄷ→ㅏ</td>
         <td>ㅣ→ㅌ</td>
         <td>tensification</td>
         <td>1.0</td>
@@ -3245,8 +3245,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">81</td>
-        <td>P025</td>
-        <td>short phrase</td>
+        <td>K081</td>
+        <td>phrase</td>
         <td>집에 오다</td>
         <td>4</td>
         <td>1.0</td>
@@ -3284,8 +3284,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">82</td>
-        <td>P026</td>
-        <td>short phrase</td>
+        <td>K082</td>
+        <td>phrase</td>
         <td>밥을 먹다</td>
         <td>4</td>
         <td>1.2</td>
@@ -3323,8 +3323,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">83</td>
-        <td>P027</td>
-        <td>short phrase</td>
+        <td>K083</td>
+        <td>phrase</td>
         <td>물을 먹다</td>
         <td>4</td>
         <td>1.2</td>
@@ -3362,8 +3362,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">84</td>
-        <td>P028</td>
-        <td>short phrase</td>
+        <td>K084</td>
+        <td>phrase</td>
         <td>사진 보다</td>
         <td>4</td>
         <td>1.0</td>
@@ -3401,8 +3401,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">85</td>
-        <td>P029</td>
-        <td>short phrase</td>
+        <td>K085</td>
+        <td>phrase</td>
         <td>노래 듣다</td>
         <td>4</td>
         <td>0.9</td>
@@ -3440,8 +3440,8 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">86</td>
-        <td>P030</td>
-        <td>short phrase</td>
+        <td>K086</td>
+        <td>phrase</td>
         <td>영화 보다</td>
         <td>4</td>
         <td>0.9</td>
@@ -3479,7 +3479,7 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">87</td>
-        <td>S001</td>
+        <td>K087</td>
         <td>sentence</td>
         <td>오늘 오후에는 친구와 근처 공원에서 산책을 했다.</td>
         <td>20</td>
@@ -3487,7 +3487,7 @@ Below is a preview of the lexicon CSV data used in our framework.
         <td>3.87</td>
         <td>0.51</td>
         <td>오늘 오후에는 친구와 근처 공원에서 산채글 핻따</td>
-        <td>ㅇ,ㅎ,ㅊ,ㄱ,ㅅ,ㄷ,ㄸ</td>
+        <td>ㅇ,ㄴ,ㅎ,ㅊ,ㄱ,ㅅ,ㄸ</td>
         <td>ㅗ,ㅡ,ㅜ,ㅔ,ㅣ,ㅘ,ㅓ,ㅝ,ㅏ,ㅐ</td>
         <td>ㄹ, ㄴ, ㅇ, ㄷ</td>
         <td>ㅇ-ㅗ-ㄴ-ㅡ-ㄹ | ㅇ-ㅗ-ㅎ-ㅜ-ㅇ-ㅔ-ㄴ-ㅡ-ㄴ | ㅊ-ㅣ-ㄴ-ㄱ-ㅜ-ㅇ-ㅘ | ㄱ-ㅡ-ㄴ-ㅊ-ㅓ | ㄱ-ㅗ-ㅇ-ㅇ-ㅝ-ㄴ-ㅇ-ㅔ-ㅅ-ㅓ | ㅅ-ㅏ-ㄴ-ㅊ-ㅐ-ㄱ-ㅡ-ㄹ | ㅎ-ㅐ-ㄷ-ㄸ-ㅏ</td>
@@ -3518,7 +3518,7 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">88</td>
-        <td>S002</td>
+        <td>K088</td>
         <td>sentence</td>
         <td>아침에 일어나 창문을 열고 밖을 바라봤다.</td>
         <td>17</td>
@@ -3526,7 +3526,7 @@ Below is a preview of the lexicon CSV data used in our framework.
         <td>3.07</td>
         <td>0.12</td>
         <td>아치메 이러나 창무늘 열고 바끌 바라봗따</td>
-        <td>ㅇ,ㅊ,ㄴ,ㅁ,ㄱ,ㅂ,ㄹ,ㄷ</td>
+        <td>ㅇ,ㅊ,ㄴ,ㅁ,ㄱ,ㅂ,ㄲ,ㄹ,ㄸ</td>
         <td>ㅏ,ㅣ,ㅔ,ㅓ,ㅜ,ㅡ,ㅕ,ㅗ,ㅘ</td>
         <td>ㄹ, ㄷ</td>
         <td>ㅇ-ㅏ-ㅊ-ㅣ-ㅁ-ㅔ | ㅇ-ㅣ-ㄹ-ㅓ-ㄴ-ㅏ | ㅊ-ㅏ-ㅇ-ㅁ-ㅜ-ㄴ-ㅡ-ㄹ | ㅇ-ㅕ-ㄹ-ㄱ-ㅗ | ㅂ-ㅏ-ㄲ-ㅡ-ㄹ | ㅂ-ㅏ-ㄹ-ㅏ-ㅂ-ㅘ-ㄷ-ㄸ-ㅏ</td>
@@ -3557,7 +3557,7 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">89</td>
-        <td>S003</td>
+        <td>K089</td>
         <td>sentence</td>
         <td>학교가 끝나고 친구와 같이 집에 돌아왔다.</td>
         <td>18</td>
@@ -3567,7 +3567,7 @@ Below is a preview of the lexicon CSV data used in our framework.
         <td>학꾜가 끈나고 친구와 가치 지베 도라왇따</td>
         <td>ㅎ,ㄲ,ㄴ,ㄱ,ㅊ,ㅇ,ㅈ,ㅂ,ㄷ,ㄹ,ㄸ</td>
         <td>ㅏ,ㅛ,ㅡ,ㅗ,ㅣ,ㅜ,ㅘ,ㅔ</td>
-        <td>ㄴ, ㄷ</td>
+        <td>ㄱ, ㄴ, ㄷ</td>
         <td>ㅎ-ㅏ-ㄱ-ㄲ-ㅛ-ㄱ-ㅏ | ㄲ-ㅡ-ㄴ-ㄴ-ㅏ-ㄱ-ㅗ | ㅊ-ㅣ-ㄴ-ㄱ-ㅜ-ㅇ-ㅘ | ㄱ-ㅏ-ㅊ-ㅣ | ㅈ-ㅣ-ㅂ-ㅔ | ㄷ-ㅗ-ㄹ-ㅏ-ㅇ-ㅘ-ㄷ-ㄸ-ㅏ</td>
         <td>ㅎ,ㅏ,ㄱ,ㄲ,ㅛ,ㅡ,ㄴ,ㅗ,ㅊ,ㅣ,ㅜ,ㅇ,ㅘ,ㅈ,ㅂ,ㅔ,ㄷ,ㄹ,ㄸ</td>
         <td>ㅎ→ㅏ,ㅏ→ㄱ,ㄱ→ㄲ,ㄲ→ㅛ,ㅛ→ㄱ,ㄱ→ㅏ; ㄲ→ㅡ,ㅡ→ㄴ,ㄴ→ㄴ,ㄴ→ㅏ,ㅏ→ㄱ,ㄱ→ㅗ; ㅊ→ㅣ,ㅣ→ㄴ,ㄴ→ㄱ,ㄱ→ㅜ,ㅜ→ㅇ,ㅇ→ㅘ; ㄱ→ㅏ,ㅏ→ㅊ,ㅊ→ㅣ; ㅈ→ㅣ,ㅣ→ㅂ,ㅂ→ㅔ; ㄷ→ㅗ,ㅗ→ㄹ,ㄹ→ㅏ,ㅏ→ㅇ,ㅇ→ㅘ,ㅘ→ㄷ,ㄷ→ㄸ,ㄸ→ㅏ</td>
@@ -3596,7 +3596,7 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">90</td>
-        <td>S004</td>
+        <td>K090</td>
         <td>sentence</td>
         <td>점심에는 따뜻한 국물과 밥을 함께 먹었다.</td>
         <td>17</td>
@@ -3604,7 +3604,7 @@ Below is a preview of the lexicon CSV data used in our framework.
         <td>3.23</td>
         <td>0.21</td>
         <td>점시메는 따뜨탄 궁물과 바블 함께 머걷따</td>
-        <td>ㅈ,ㅅ,ㅇ,ㄴ,ㄸ,ㅎ,ㄱ,ㅁ,ㅂ,ㄲ,ㄷ</td>
+        <td>ㅈ,ㅅ,ㅁ,ㄴ,ㄸ,ㅌ,ㄱ,ㅂ,ㅎ,ㄲ,ㄱ,ㄸ</td>
         <td>ㅓ,ㅣ,ㅔ,ㅡ,ㅏ,ㅜ,ㅘ</td>
         <td>ㅁ, ㅇ, ㄷ</td>
         <td>ㅈ-ㅓ-ㅁ-ㅅ-ㅣ-ㅁ-ㅔ-ㄴ-ㅡ-ㄴ | ㄸ-ㅏ-ㄸ-ㅡ-ㅌ-ㅏ-ㄴ | ㄱ-ㅜ-ㅇ-ㅁ-ㅜ-ㄹ-ㄱ-ㅘ | ㅂ-ㅏ-ㅂ-ㅡ-ㄹ | ㅎ-ㅏ-ㅁ-ㄲ-ㅔ | ㅁ-ㅓ-ㄱ-ㅓ-ㄷ-ㄸ-ㅏ</td>
@@ -3635,7 +3635,7 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">91</td>
-        <td>S005</td>
+        <td>K091</td>
         <td>sentence</td>
         <td>오늘 저녁에는 뭐 먹을까?</td>
         <td>11</td>
@@ -3643,12 +3643,12 @@ Below is a preview of the lexicon CSV data used in our framework.
         <td>2.0</td>
         <td>0.0</td>
         <td>오늘 저녀게는 뭐 머글까</td>
-        <td>ㅇ,ㅈ,ㅁ,ㄱ,ㄲ</td>
+        <td>ㅇ,ㄴ,ㅈ,ㄱ,ㅁ,ㄲ</td>
         <td>ㅗ,ㅡ,ㅓ,ㅕ,ㅔ,ㅝ,ㅏ</td>
         <td>ㄹ, ㄴ</td>
-        <td>ㅇ-ㅗ-ㄴ-ㅡ-ㄹ | ㅈ-ㅓ-ㄴ-ㅕ-ㅇ-ㅇ-ㅔ-ㄴ-ㅡ-ㄴ | ㅁ-ㅝ | ㅁ-ㅓ-ㄱ-ㅡ-ㄹ-ㄲ-ㅏ</td>
-        <td>ㅇ→ㅗ,ㅗ→ㄴ,ㄴ→ㅡ,ㅡ→ㄹ; ㅈ→ㅓ,ㅓ→ㄴ,ㄴ→ㅕ,ㅕ→ㅇ,ㅇ→ㅇ,ㅇ→ㅔ,ㅔ→ㄴ,ㄴ→ㅡ,ㅡ→ㄴ; ㅁ→ㅝ; ㅁ→ㅓ,ㅓ→ㄱ,ㄱ→ㅡ,ㅡ→ㄹ,ㄹ→ㄲ,ㄲ→ㅏ</td>
-        <td>ㅇ→ㅗ / ㄴ,ㅗ / ㄴ→ㅡ,ㅡ→ㄹ / ㅈ,ㄹ / ㅈ→ㅓ / ㄴ,ㅓ / ㄴ→ㅕ,ㅕ→ㄱ / ㅇ,ㄱ / ㅇ→ㅔ / ㄴ,ㅔ / ㄴ→ㅡ,ㅡ→ㄴ / ㅁ,ㄴ / ㅁ→ㅝ / ㅁ,ㅝ / ㅁ→ㅓ,ㅓ→ㄱ / ㅇ,ㄱ / ㅇ→ㅡ,ㅡ→ㄹ / ㄲ,ㄹ / ㄲ→ㅏ</td>
+        <td>ㅇ-ㅗ-ㄴ-ㅡ-ㄹ | ㅈ-ㅓ-ㄴ-ㅕ-ㄱ-ㅔ-ㄴ-ㅡ-ㄴ | ㅁ-ㅝ | ㅁ-ㅓ-ㄱ-ㅡ-ㄹ-ㄲ-ㅏ</td>
+        <td>ㅇ→ㅗ,ㅗ→ㄴ,ㄴ→ㅡ,ㅡ→ㄹ; ㅈ→ㅓ,ㅓ→ㄴ,ㄴ→ㅕ,ㅕ→ㄱ,ㄱ→ㅔ,ㅔ→ㄴ,ㄴ→ㅡ,ㅡ→ㄴ; ㅁ→ㅝ; ㅁ→ㅓ,ㅓ→ㄱ,ㄱ→ㅡ,ㅡ→ㄹ,ㄹ→ㄲ,ㄲ→ㅏ</td>
+        <td>ㅇ→ㅗ / ㄴ,ㅗ / ㄴ→ㅡ,ㅡ→ㄹ / ㅈ,ㄹ / ㅈ→ㅓ / ㄴ,ㅓ / ㄴ→ㅕ,ㅕ→ㄱ /ㄱ→ㅔ /ㅔ→ ㄴ/ ㄴ→ㅡ,ㅡ→ㄴ / ㅁ,ㄴ / ㅁ→ㅝ / ㅁ,ㅝ / ㅁ→ㅓ,ㅓ→ㄱ / ㅇ,ㄱ / ㅇ→ㅡ,ㅡ→ㄹ / ㄲ,ㄹ / ㄲ→ㅏ</td>
         <td>ㄹ→ㅈ, ㄴ→ㅁ, ㅝ→ㅁ</td>
         <td>resyllabification</td>
         <td>1.0</td>
@@ -3674,7 +3674,7 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">92</td>
-        <td>S006</td>
+        <td>K092</td>
         <td>sentence</td>
         <td>잠깐만, 물 좀 마시고 가자.</td>
         <td>11</td>
@@ -3713,7 +3713,7 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">93</td>
-        <td>S007</td>
+        <td>K093</td>
         <td>sentence</td>
         <td>주말에는 친구를 만나 영화도 보고 밥도 먹었다.</td>
         <td>20</td>
@@ -3721,7 +3721,7 @@ Below is a preview of the lexicon CSV data used in our framework.
         <td>3.47</td>
         <td>0.15</td>
         <td>주마레는 친구를 만나 영화도 보고 밥또 머걷따</td>
-        <td>ㅈ,ㅁ,ㅇ,ㄴ,ㅊ,ㄱ,ㅎ,ㄷ,ㅂ,ㄸ</td>
+        <td>ㅈ,ㅁ,ㄹ,ㄴ,ㅊ,ㄱ,ㅇ,ㅎ,ㄷ,ㅂ,ㄸ</td>
         <td>ㅜ,ㅏ,ㅔ,ㅡ,ㅣ,ㅕ,ㅘ,ㅗ,ㅓ</td>
         <td>ㄴ, ㄹ, ㅇ, ㅂ, ㄷ</td>
         <td>ㅈ-ㅜ-ㅁ-ㅏ-ㄹ-ㅔ-ㄴ-ㅡ-ㄴ | ㅊ-ㅣ-ㄴ-ㄱ-ㅜ-ㄹ-ㅡ-ㄹ | ㅁ-ㅏ-ㄴ-ㄴ-ㅏ | ㅇ-ㅕ-ㅇ-ㅎ-ㅘ-ㄷ-ㅗ | ㅂ-ㅗ-ㄱ-ㅗ | ㅂ-ㅏ-ㅂ-ㄸ-ㅗ | ㅁ-ㅓ-ㄱ-ㅓ-ㄷ-ㄸ-ㅏ</td>
@@ -3752,7 +3752,7 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">94</td>
-        <td>S008</td>
+        <td>K094</td>
         <td>sentence</td>
         <td>이 옷보다 파란색이 더 잘 어울리는 것 같아.</td>
         <td>18</td>
@@ -3760,7 +3760,7 @@ Below is a preview of the lexicon CSV data used in our framework.
         <td>2.83</td>
         <td>0.15</td>
         <td>이 옫뽀다 파란새기 더 잘 어울리는 걷 까타</td>
-        <td>ㅇ,ㅂ,ㄷ,ㅍ,ㄹ,ㅅ,ㄱ,ㅈ,ㄲ,ㅌ</td>
+        <td>ㅇ,ㅃ,ㄷ,ㅍ,ㄹ,ㅅ,ㄱ,ㅈ,ㄴ,ㄲ,ㅌ</td>
         <td>ㅣ,ㅗ,ㅏ,ㅐ,ㅓ,ㅜ,ㅡ</td>
         <td>ㄷ, ㄴ, ㄹ</td>
         <td>ㅇ-ㅣ | ㅇ-ㅗ-ㄷ-ㅃ-ㅗ-ㄷ-ㅏ | ㅍ-ㅏ-ㄹ-ㅏ-ㄴ-ㅅ-ㅐ-ㄱ-ㅣ | ㄷ-ㅓ | ㅈ-ㅏ-ㄹ | ㅇ-ㅓ-ㅇ-ㅜ-ㄹ-ㄹ-ㅣ-ㄴ-ㅡ-ㄴ | ㄱ-ㅓ-ㄷ | ㄲ-ㅏ-ㅌ-ㅏ</td>
@@ -3791,7 +3791,7 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">95</td>
-        <td>S009</td>
+        <td>K095</td>
         <td>sentence</td>
         <td>자기 전에 물을 마시고 책을 조금 읽었다.</td>
         <td>16</td>
@@ -3799,7 +3799,7 @@ Below is a preview of the lexicon CSV data used in our framework.
         <td>2.88</td>
         <td>0.16</td>
         <td>자기 저네 무를 마시고 채글 쪼금 일걷따</td>
-        <td>ㅈ,ㄱ,ㄴ,ㅁ,ㅅ,ㅊ,ㅉ,ㅇ,ㄷ,ㄸ</td>
+        <td>ㅈ,ㄱ,ㄴ,ㅁ,ㄹ,ㅅ,ㅊ,ㅉ,ㅇ,ㄸ</td>
         <td>ㅏ,ㅣ,ㅓ,ㅔ,ㅜ,ㅡ,ㅗ,ㅐ</td>
         <td>ㄹ, ㅁ, ㄷ</td>
         <td>ㅈ-ㅏ-ㄱ-ㅣ | ㅈ-ㅓ-ㄴ-ㅔ | ㅁ-ㅜ-ㄹ-ㅡ-ㄹ | ㅁ-ㅏ-ㅅ-ㅣ-ㄱ-ㅗ | ㅊ-ㅐ-ㄱ-ㅡ-ㄹ | ㅉ-ㅗ-ㄱ-ㅡ-ㅁ | ㅇ-ㅣ-ㄹ-ㄱ-ㅓ-ㄷ-ㄸ-ㅏ</td>
@@ -3830,7 +3830,7 @@ Below is a preview of the lexicon CSV data used in our framework.
       </tr>
       <tr>
         <td class="line-num">96</td>
-        <td>S010</td>
+        <td>K096</td>
         <td>sentence</td>
         <td>아, 맞다. 내일 같이 학교 가기로 했지?</td>
         <td>15</td>
@@ -3838,7 +3838,7 @@ Below is a preview of the lexicon CSV data used in our framework.
         <td>2.7</td>
         <td>0.1</td>
         <td>아 맏따 내일 가치 학꾜 가기로 핻찌</td>
-        <td>ㅇ,ㅁ,ㄸ,ㄴ,ㄱ,ㅊ,ㅎ,ㅈ,ㅉ</td>
+        <td>ㅇ,ㅁ,ㄸ,ㄴ,ㄱ,ㅊ,ㅎ,ㄹ,ㅉ</td>
         <td>ㅏ,ㅐ,ㅣ,ㅛ,ㅗ</td>
         <td>ㄷ, ㄹ, ㄱ</td>
         <td>ㅇ-ㅏ | ㅁ-ㅏ-ㄷ-ㄸ-ㅏ | ㄴ-ㅐ-ㅇ-ㅣ-ㄹ | ㄱ-ㅏ-ㅊ-ㅣ | ㅎ-ㅏ-ㄱ-ㄲ-ㅛ | ㄱ-ㅏ-ㄱ-ㅣ-ㄹ-ㅗ | ㅎ-ㅐ-ㄷ-ㅉ-ㅣ</td>
